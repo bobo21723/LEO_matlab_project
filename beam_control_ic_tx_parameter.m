@@ -1,0 +1,1 @@
+beam_former_gain_array = [1 1];
